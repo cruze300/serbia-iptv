@@ -1,33 +1,10 @@
 #EXTM3U
+# --- Serbian Only (Country Filter) ---
+https://iptv-org.github.io/iptv/countries/rs.m3u
 
-# --- RTS Channels ---
-#EXTINF:-1 tvg-id="RTS1.rs" group-title="Serbia",RTS 1
-http://87.116.166.244:81/streaming/rts1.m3u8
-#EXTINF:-1 tvg-id="RTS2.rs" group-title="Serbia",RTS 2
-http://87.116.166.244:81/streaming/rts2.m3u8
-#EXTINF:-1 tvg-id="RTS3.rs" group-title="Serbia",RTS 3
-http://87.116.166.244:81/streaming/rts3.m3u8
+# --- Serbian Language (Covers ex-YU + Serbia) ---
+https://iptv-org.github.io/iptv/languages/srp.m3u
 
-# --- Commercial Channels ---
-#EXTINF:-1 tvg-id="Prva.rs" group-title="Serbia",Prva TV
-http://87.116.166.244:81/streaming/prva.m3u8
-#EXTINF:-1 tvg-id="Pink.rs" group-title="Serbia",Pink TV
-http://87.116.166.244:81/streaming/pink.m3u8
-#EXTINF:-1 tvg-id="Happy.rs" group-title="Serbia",Happy TV
-http://87.116.166.244:81/streaming/happy.m3u8
-#EXTINF:-1 tvg-id="O2.rs" group-title="Serbia",O2 / B92
-http://87.116.166.244:81/streaming/o2.m3u8
-#EXTINF:-1 tvg-id="TVVesti.rs" group-title="Serbia",TV Vesti
-http://87.116.166.244:81/streaming/vesti.m3u8
-
-# --- News ---
-#EXTINF:-1 tvg-id="N1.rs" group-title="Serbia",N1 Srb HD
-http://176.67.211.6:15000/udp/239.1.1.11:22011
-#EXTINF:-1 tvg-id="NovaS.rs" group-title="Serbia",Nova S
-http://87.116.166.244:81/streaming/novas.m3u8
-
-# --- Sports ---
-#EXTINF:-1 tvg-id="SportKlub.rs" group-title="Serbia",Sport Klub 1
-http://87.116.166.244:81/streaming/sk1.m3u8
-#EXTINF:-1 tvg-id="SportKlub2.rs" group-title="Serbia",Sport Klub 2
-http://87.116.166.244:81/streaming/sk2.m3u8
+# --- Optional Full Indexes (Extra Groups) ---
+https://iptv-org.github.io/iptv/index.language.m3u
+https://iptv-org.github.io/iptv/index.country.m3u
