@@ -43,7 +43,7 @@ http://87.116.166.244:81/streaming/sk2.m3u8
 
 # --- iptv-org ---
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png" group-title="Cooking",24Kitchen Serbia (720p)
@@ -213,7 +213,7 @@ http://ott-cdn.ucom.am/s17/index.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/vMzCr8O.png" group-title="News",Al Jazeera Balkans (1080p)
@@ -375,7 +375,7 @@ http://ott-cdn.ucom.am/s17/index.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="24Kitchen.us@Serbia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png" group-title="Cooking",24Kitchen Serbia (720p)
 http://91.132.74.5:8000/play/a00a
 #EXTINF:-1 tvg-id="ArenaSport1.ba@SD" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="Sports",Arena Sport 1 (720p)
@@ -481,7 +481,7 @@ http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WORLDWIDEMUZZIK.rs" tvg-logo="https://i.imgur.com/tEzppGC.png" group-title="Music",Worldwide Muzzik (720p)
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="RTS1.rs" group-title="Channels",RTS 1
 http://176.67.211.6:15000/udp/239.1.1.1:22001
 #EXTINF:0 tvg-id="RTS2.rs" group-title="Channels",RTS 2
@@ -758,199 +758,73 @@ http://176.67.211.6:15000/udp/239.1.1.143:22143
 http://176.67.211.6:15000/udp/239.1.1.144:22144
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV1000 Balkan FSS
 http://176.67.211.6:15000/udp/239.1.1.145:22145
-#EXTINF:0 tvg-id="TVPINK.rs" group-title="Channels",Pink
-http://176.67.211.6:15000/udp/239.1.1.146:22146
-#EXTINF:0 tvg-id="Pink2.hr" group-title="Channels",Pink 2
-http://176.67.211.6:15000/udp/239.1.1.147:22147
-#EXTINF:0 tvg-id="Pink3.rs" group-title="Channels",Pink 3 Info
-http://176.67.211.6:15000/udp/239.1.1.148:22148
-#EXTINF:0 tvg-id="PinkExtra.svn" group-title="Channels",Pink Extra
-http://176.67.211.6:15000/udp/239.1.1.149:22149
-#EXTINF:0 tvg-id="PinkM.rs" group-title="Channels",Pink M
-http://176.67.211.6:15000/udp/239.1.1.150:22150
-#EXTINF:0 tvg-id="PINKBH.hr" group-title="Channels",Pink BH
-http://176.67.211.6:15000/udp/239.1.1.151:22151
-#EXTINF:0 tvg-id="ext" group-title="Channels",Novi kanal
-http://176.67.211.6:15000/udp/239.1.1.152:22152
-#EXTINF:0 tvg-id="PinkMusic2.rs" group-title="Channels",Pink Music 2
-http://176.67.211.6:15000/udp/239.1.1.153:22153
-#EXTINF:0 tvg-id="PinkHits1.rs" group-title="Channels",Pink Hits 1
-http://176.67.211.6:15000/udp/239.1.1.154:22154
-#EXTINF:0 tvg-id="PinkHits2.rs" group-title="Channels",Pink Hits 2
-http://176.67.211.6:15000/udp/239.1.1.155:22155
-#EXTINF:0 tvg-id="PinkMusic3.rs" group-title="Channels",Bravo Music
-http://176.67.211.6:15000/udp/239.1.1.156:22156
-#EXTINF:0 tvg-id="ext" group-title="Channels",City Play
-http://176.67.211.6:15000/udp/239.1.1.157:22157
-#EXTINF:0 tvg-id="PinkFolk.svn" group-title="Channels",Pink Folk
-http://176.67.211.6:15000/udp/239.1.1.158:22158
-#EXTINF:0 tvg-id="PinkFolk2.rs" group-title="Channels",Pink Folk 2
-http://176.67.211.6:15000/udp/239.1.1.159:22159
-#EXTINF:0 tvg-id="PinkWestern.rs" group-title="Channels",Pink Western
-http://176.67.211.6:15000/udp/239.1.1.160:22160
-#EXTINF:0 tvg-id="PinkFamily.hr" group-title="Channels",Pink Family
-http://176.67.211.6:15000/udp/239.1.1.161:22161
-#EXTINF:0 tvg-id="PinkFilm.rs" group-title="Channels",Pink Film
-http://176.67.211.6:15000/udp/239.1.1.162:22162
-#EXTINF:0 tvg-id="PinkHorror.hr" group-title="Channels",Pink Horror
-http://176.67.211.6:15000/udp/239.1.1.163:22163
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Fashion
-http://176.67.211.6:15000/udp/239.1.1.165:22165
-#EXTINF:0 tvg-id="PinkKoncert.rs" group-title="Channels",Pink Koncert
-http://176.67.211.6:15000/udp/239.1.1.166:22166
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink&Roll
-http://176.67.211.6:15000/udp/239.1.1.167:22167
-#EXTINF:0 tvg-id="ext" group-title="Channels",HA HA
-http://176.67.211.6:15000/udp/239.1.1.168:22168
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOL
-http://176.67.211.6:15000/udp/239.1.1.169:22169
-#EXTINF:0 tvg-id="PinkPlus.se" group-title="Channels",Pink Plus
-http://176.67.211.6:15000/udp/239.1.1.170:22170
-#EXTINF:0 tvg-id="PinkComedy.hr" group-title="Channels",Pink Comedy
-http://176.67.211.6:15000/udp/239.1.1.171:22171
-#EXTINF:0 tvg-id="PinkCrime.rs" group-title="Channels",Pink Crime&Mystery
-http://176.67.211.6:15000/udp/239.1.1.172:22172
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Sci-Fi&Fantasy
-http://176.67.211.6:15000/udp/239.1.1.173:22173
-#EXTINF:0 tvg-id="PinkPremium.rs" group-title="Channels",Pink Premium
-http://176.67.211.6:15000/udp/239.1.1.174:22174
-#EXTINF:0 tvg-id="PinkMovies2.rs" group-title="Channels",Pink Romance
-http://176.67.211.6:15000/udp/239.1.1.175:22175
-#EXTINF:0 tvg-id="PinkThriller.rs" group-title="Channels",Pink Thriller
-http://176.67.211.6:15000/udp/239.1.1.176:22176
-#EXTINF:0 tvg-id="PinkAction.rs" group-title="Channels",Pink Action
-http://176.67.211.6:15000/udp/239.1.1.177:22177
-#EXTINF:0 tvg-id="PinkMovies.rs" group-title="Channels",Pink Movies
-http://176.67.211.6:15000/udp/239.1.1.178:22178
-#EXTINF:0 tvg-id="PinkSerije.rs" group-title="Channels",Pink Serije
-http://176.67.211.6:15000/udp/239.1.1.179:22179
-#EXTINF:0 tvg-id="PinkWorldCinema.rs" group-title="Channels",Pink World Cinema
-http://176.67.211.6:15000/udp/239.1.1.180:22180
-#EXTINF:0 tvg-id="PinkWorld.rs" group-title="Channels",Pink World
-http://176.67.211.6:15000/udp/239.1.1.181:22181
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Show
-http://176.67.211.6:15000/udp/239.1.1.182:22182
-#EXTINF:0 tvg-id="PinkClassic.rs" group-title="Channels",Pink Classic
-http://176.67.211.6:15000/udp/239.1.1.184:22184
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Style
-http://176.67.211.6:15000/udp/239.1.1.185:22185
-#EXTINF:0 tvg-id="PinkPedia.rs" group-title="Channels",Pink Pedia
-http://176.67.211.6:15000/udp/239.1.1.186:22186
-#EXTINF:0 tvg-id="PinkReality.rs" group-title="Channels",Pink Reality
-http://176.67.211.6:15000/udp/239.1.1.187:22187
-#EXTINF:0 tvg-id="PinkSoap.rs" group-title="Channels",Pink Soap
-http://176.67.211.6:15000/udp/239.1.1.188:22188
-#EXTINF:0 tvg-id="PinkZabava.rs" group-title="Channels",Pink Zabava
-http://176.67.211.6:15000/udp/239.1.1.189:22189
 #EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
 http://176.67.211.6:15000/udp/239.1.1.190:22190
 
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/512px-24Kitchen.png" group-title="Undefined",24Kitchen Serbia (720p)
 http://91.132.74.5:8000/play/a00a?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/UDyxgXf.png" group-title="Entertainment",Balkan Radio Salzburg (480p)
 https://channel.streams.ovh:1936/balkanradiosalzburgtv/balkanradiosalzburgtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",MIS Televizija (720p) [Not 24/7]
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://www.lyngsat.com/logo/tv/nn/n1_rs.png" group-title="News",N1 RS
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info&checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/dua57HD.png" group-title="Undefined",Narodna TV (720p)
-https://edge8.pink.rs/narodnatv/index.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/66wHb7E.png" group-title="Undefined",Pink
-https://live.rednet.rs/providus/pink1.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink (720p)
-https://edge8.pink.rs/pinktv/index.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Extra (576p)
-http://109.105.201.198/PINKEXTRA/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Family (576p)
-http://109.105.201.198/PINKFAMILY/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Film (576p)
-http://109.105.201.198/PINKFILM/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Koncert (576p)
-http://109.105.201.198/PINKKONCERT/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Movies (576p)
-http://109.105.201.198/PINKMOVIES/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Pedia (576p)
-http://109.105.201.198/PINKPEDIA/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Sci-Fi & Fantasy (576p)
-http://109.105.201.198/PINKSCIFI/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Serije (576p)
-http://109.105.201.198/PINKSERIJE/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink World (360p)
-http://109.105.201.198/PINKWORLD/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink Zabava (360p)
-http://109.105.201.198/PINKZABAVA/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
-#EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Pink n Roll (360p)
-http://109.105.201.198/PINKROLL/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTS 1 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts1.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTS 2 (720p) [Not 24/7]
 https://webtvstream.bhtelecom.ba/rts2.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/LjunOdy.png" group-title="Undefined",RTS Svet HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-dash/rtssat.mpd?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",RTS Svet HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/gP2OT4S.png" group-title="Music;Undefined",Radio Hit FM TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/g2HpLX1.png" group-title="Music;Undefined",Radio Karolina TV (720p)
 https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/41eE8fl.png" group-title="Music",Radio Lola (720p) [Not 24/7]
 https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/vy66EXI.png" group-title="Undefined",SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/lm9Fgsp.png" group-title="Undefined",Sandzak TV (576p)
 https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/POdTmaD.png" group-title="Music;Undefined",TDI Radio TV
 https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",TV Kanal M (576p)
 http://176.67.210.1/hls/kanalm.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",TV Pi Canal Pirot (576p) [Not 24/7]
 http://stream.pikanal.rs/pikanal/pgm.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/X4vBCVA.png" group-title="Undefined",TV Pi Canal Pirot (576p) [Not 24/7]
 https://stream.pikanal.rs/pikanal/pgm.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",Toxic Rap (1080p)
 http://82.118.0.14:8000/play/7/index.m3u8?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="https://i.imgur.com/8wbTnNW.png" group-title="Music;Undefined",ZICO TV (1080p)
 http://77.83.120.135:8001/play/a0wn?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",ZICO TV (1080p)
 http://77.83.120.135:8001/play/a049?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="RS" tvg-logo="" group-title="Undefined",ZICO TV (1080p)
 http://77.83.120.135:8001/play/a161?checkedby:iptvcat.com
-#EXTM3U
+
 #EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined;FRANCE;ITALY;SPAIN",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8?checkedby:iptvcat.com
 
