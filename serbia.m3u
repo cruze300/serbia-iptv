@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Pink2.global" group-title="Serbia",Pink TV 2 (Public)
+http://str108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:-1 tvg-id="Pink3.global" group-title="Serbia",Pink TV 3 (Public)
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/mojtube.m3u8
+
+#EXTINF:-1 tvg-id="PinkFilm.global" group-title="Serbia",Pink Film (576p)
+http://str108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/mojtube.m3u8
+
 # --- RTS Channels ---
 #EXTINF:-1 tvg-id="RTS1.rs" group-title="Serbia",RTS 1
 http://87.116.166.244:81/streaming/rts1.m3u8
